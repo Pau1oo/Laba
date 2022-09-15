@@ -1,0 +1,3 @@
+C:\Users\bukat\source\repos\task3\x64\Debug\task3.exe
+C:\Users\bukat\source\repos\task1.3\x64\Debug\task3.exe
+C:\Users\bukat\Desktop\Лабы\1 лаба\task1.3\x64\Debug\task3.exe
