@@ -1,3 +1,4 @@
 ﻿  task2.1.c
-C:\Users\bukat\source\repos\task2.1\task2.1.c(11,10): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-  task2.1.vcxproj -> C:\Users\bukat\source\repos\task2.1\x64\Debug\task2.1.exe
+C:\Users\bukat\Desktop\Лабы\2 лаба\task2.1\task2.1.c(11,3): warning C4013: exit: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\bukat\Desktop\Лабы\2 лаба\task2.1\task2.1.c(25,10): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  task2.1.vcxproj -> C:\Users\bukat\Desktop\Лабы\2 лаба\task2.1\x64\Debug\task2.1.exe
