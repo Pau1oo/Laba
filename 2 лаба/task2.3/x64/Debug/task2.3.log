@@ -1,2 +1,3 @@
 ﻿  task2.3.c
+C:\Users\bukat\Desktop\Лабы\2 лаба\task2.3\task2.3.c(12,9): warning C4013: exit: нет определения; предполагается "extern" с возвратом типа "int"
   task2.3.vcxproj -> C:\Users\bukat\Desktop\Лабы\2 лаба\task2.3\x64\Debug\task2.3.exe
