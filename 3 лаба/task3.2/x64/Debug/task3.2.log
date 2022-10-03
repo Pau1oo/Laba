@@ -1,2 +1,5 @@
 ﻿  task3.2.c
+C:\Users\bukat\source\repos\task3.2\task3.2.c(23,3): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\bukat\source\repos\task3.2\task3.2.c(23,9): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\bukat\source\repos\task3.2\task3.2.c(26,15): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
   task3.2.vcxproj -> C:\Users\bukat\source\repos\task3.2\x64\Debug\task3.2.exe

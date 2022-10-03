@@ -2,23 +2,44 @@
 
 int main()
 {
-	int array[100], n, i;
+	int array[100], n, i, option;
 	printf("Input the length of the array\n");
 	scanf_s("%d", &n);
 
+	printf("Choose an option:\n1) Keyboard input\n2) Initializing an array with random elements\n");
+	scanf_s("%d", &option);
+
+	switch (option)
+	{
+	case 1:
+		printf("Input the elements of the array\n");
+		for (i = 0; i < n; i++)
+		{
+			scanf_s("%d", &array[i]);
+		}
+		break;
+
+	case 2:
+		srand(time(NULL));
+		for (i = 0; i < n; i++)
+		{
+			array[i] = rand() % 30-15;
+			printf("%d ", array[i]);
+		}
+		printf("\n");
+		break;
+
+	default:
+		printf("Error");
+		return 0;
+	}
+		
 	if (n <= 0)
 	{
 		printf("Invalid input");
 		return 0;
 	}
-
-	printf("Input the elements of the array\n");
-
-	for (i = 0; i < n; i++)
-	{
-		scanf_s("%d", &array[i]);
-	}
-
+	
 	int max = array[0];
 
 	for (i = 0; i < n; i++)
@@ -27,11 +48,13 @@ int main()
 			max = array[i];
 	}
 
+	printf("Numbers of max elements:");
+
 	for (i = 0; i < n; i++)
 	{
 		if (max == array[i])
 		{
-			printf("%d ", i + 1);
+			printf(" %d", i + 1);
 		}
 	}
 
