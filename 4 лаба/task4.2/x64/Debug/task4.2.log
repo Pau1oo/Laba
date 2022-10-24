@@ -1,0 +1,4 @@
+﻿  task4.2.c
+C:\Users\bukat\source\repos\task4.2\task4.2.c(61,9): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\bukat\source\repos\task4.2\task4.2.c(6,24): warning C4101: reverseMatrix: неиспользованная локальная переменная
+  task4.2.vcxproj -> C:\Users\bukat\source\repos\task4.2\x64\Debug\task4.2.exe
