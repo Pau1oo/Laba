@@ -1,0 +1,4 @@
+﻿  task5.3.c
+C:\Users\bukat\Desktop\~\ОАиП\5 лаба\task5.3\arrays.h(29,40): warning C4047: <: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\bukat\Desktop\~\ОАиП\5 лаба\task5.3\arrays.h(34,41): warning C4047: <=: "int *" отличается по уровням косвенного обращения от "int"
+  task5.3.vcxproj -> C:\Users\bukat\Desktop\~\ОАиП\5 лаба\task5.3\x64\Debug\task5.3.exe
