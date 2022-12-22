@@ -1,0 +1,5 @@
+﻿  arrays.c
+C:\Users\bukat\Desktop\~\ОАиП\6 лаба\task6.1\arrays.c(46,9): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  task6.1.c
+  Создание кода...
+  task6.1.c.vcxproj -> C:\Users\bukat\Desktop\~\ОАиП\6 лаба\task6.1\Debug\task6.1.c.exe
